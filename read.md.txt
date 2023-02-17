@@ -1,1 +1,2 @@
 This is a file made while learning the git repository
+The second line has been updated to it.
