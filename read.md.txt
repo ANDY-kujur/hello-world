@@ -7,3 +7,4 @@ Back to gitlab.
 
 First change after deleting the origing files.
 Edited form Githhub
+Edited form Github to use the pull command.
